@@ -27,7 +27,8 @@
 }
 
 .block.hit {
-    color: #1AFE49;
+    background-color: #1AFE49;
+    color: black;
 }
 
 .block.partial {
@@ -74,7 +75,8 @@
 }
 
 .keyboardKey.hit {
-    color: #1AFE49;
+    background-color: #1AFE49;
+    color: black;
 }
 
 .keyboardKey.partial {
